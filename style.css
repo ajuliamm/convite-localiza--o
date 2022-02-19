@@ -1,0 +1,84 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    background-color:#EFEAE2 ;
+    font-family: 'Roboto Serif', sans-serif;
+  
+
+}
+header{
+    
+    width: 100%;
+  height: 400px;
+  background-image: url(./assets/ranieju.png);
+  background-position: top center;
+  background-repeat: no-repeat;
+  
+
+
+}
+
+div{
+  
+    display: block;
+    margin: 0px auto 122px auto;
+
+    
+
+}
+
+#container{
+    background: #EFEAE2;
+
+}
+
+h1{ 
+    display: block;
+    
+    text-align: center;
+    font-style: italic;
+    font-weight: 300;
+    color: #a45014;;
+   
+    
+    
+
+}
+h4{
+    display: block;
+    
+    text-align: center;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 30px;
+
+}
+h5{display: block;
+    
+    text-align: center;
+    font-style: normal;
+    font-weight: 300;
+    margin-top: 10px;
+
+
+}
+
+
+
+button{
+    display: block;
+    background-color: #a45014;
+    border-radius: 5px;
+    border: none;
+    box-shadow: 3px 3px grey;
+    color: #EFEAE2;
+    height: 60px;
+    width: 400px;
+    margin: 38px auto 0 auto;
+    cursor: pointer;
+    font-style: bold;
+    font-size:medium    ;
+}
+
+
